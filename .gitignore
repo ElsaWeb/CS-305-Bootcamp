@@ -10,8 +10,4 @@
 .externalNativeBuild
 
 .idea
-gradle
-gradlew
-gradlew.bat
-gradle.properties
-settings.gradle
+
